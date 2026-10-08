@@ -1,0 +1,6 @@
+{
+  "name": "token-reserve",
+  "version": "0.1.0",
+  "description": "Reserve the last part of your plan's usage window for one session. Other sessions stop and tell you when they reach the line.",
+  "author": { "name": "dagim" }
+}
